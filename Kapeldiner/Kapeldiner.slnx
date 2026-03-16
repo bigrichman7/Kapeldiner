@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="Kapeldiner.csproj" />
+  <Folder Name="/src/">
+    <Project Path="src/Kapeldiner.Domain/Kapeldiner.Domain.csproj" />
+  </Folder>
 </Solution>
