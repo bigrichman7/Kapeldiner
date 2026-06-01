@@ -1,5 +1,12 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="Directory.Build.props" />
+  </Folder>
   <Folder Name="/src/">
+    <Project Path="src/Kapeldiner.Contracts/Kapeldiner.Contracts.csproj" Id="065ac888-8f05-4947-8a00-fac7821db04f" />
     <Project Path="src/Kapeldiner.Domain/Kapeldiner.Domain.csproj" />
+    <Project Path="src/Kapeldiner.Presenters/Kapeldiner.Presenters.csproj" Id="94dfdadf-af53-4fe1-89bf-978b5f13df6b" />
+    <Project Path="src/Kapeldiner.Web/Kapeldiner.Web.csproj" Id="5c399490-3ce1-4a8b-96c6-72da67274369" />
   </Folder>
 </Solution>
